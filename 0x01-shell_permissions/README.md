@@ -1,1 +1,1 @@
-Write a script that sets the mode of the file hello
+10. Look in the mirror
