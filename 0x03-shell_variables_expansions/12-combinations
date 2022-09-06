@@ -1,0 +1,2 @@
+#!/bin/bash
+alias oo="" |echo{A..z}{a..z}

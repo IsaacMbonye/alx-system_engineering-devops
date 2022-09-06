@@ -1,1 +1,1 @@
-My first README.md
+Create a script that prints all possible combinations of two letters
