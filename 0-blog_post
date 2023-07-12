@@ -1,0 +1,33 @@
+What happens when you type google.com in a web browser and press Enter
+
+
+Introduction:
+Have you ever wondered what happens behind the scenes when you typewrite "https://www.google.com" in your browser and hit Enter? In this web log post, we'll take you on a fascinating journey through the various stages involved in loading a website, from the DNS request to the recovery of data from the database. So, let's dive in!
+
+
+DNS Request:
+As soon as you press Enter, your browser initiates a Domain Name System (DNS) request. It sends a question to your configured DNS server to interpret the human-readable domain name, "www.google.com," into an IP address. The DNS server then responds with the similar IP address, enabling your browser to establish a connection with the website.
+
+TCP/IP:
+After your browser has obtained the IP address of the website, it uses the Transmission verify Protocol (TCP) to establish a connection. transmission control protocol ensures trustworthy information transmission by breaking the information into packets and verifying their fortunate delivery. It establishes a connection between your device and the server hosting the website, allowing the exchange of data.
+
+Firewall:
+At this stage, the request from your web browser may encounter a firewall, a security measure implemented to protect networks from wildcat access. The firewall inspects entrance and outgoing traffic, analyzing its content and ensuring it meets predefined security rules. If the request passes the firewall's checks, it take to the next step.
+
+HTTPS/SSL:
+In the case of "https://www.google.com," the URL specifies the use of the procure Hypertext Transfer Protocol (HTTPS). This protocol employs procure Sockets Layer (SSL) or Transport Layer Security (TLS) encryption to establish a secure connection between your browser and the website's server. SSL/TLS certificates are exchanged to authenticate the website's identity and protect the transmitted data from eavesdropping or tampering.
+
+Load Balancer:
+When dealing with high-traffic websites like Google, load balancers come into play. Load balancers distribute entrance requests crosswise multiple web servers to optimize public presentation and prevent overwhelming a single server. They insure that each request is handled efficiently, maximizing availability and response times.
+
+Web Server:
+Once the request reaches the web server, it processes the request and retrieves the requested webpage or resource. The web server is responsible for hosting the website's files and serving them to the client browser. It may also perform other tasks such as handling moral force content generation, executing server-side scripts, or interacting with application servers.
+
+Application Server:
+In the case of complex web applications, an application server comes into the picture. The practical application server hosts the business logic and processes moral force content. It retrieves data from databases, executes server-side code, and generates the necessary HTML or other formats to be sent back down to the net server for advance delivery to the browser.
+
+Database:
+Databases are essential for websites that trust on data storage, like Google. In order to retrieve or transfer data, the application server communicates with the database. The application server receives the needed data from the database, such as search results or user information, and processes it before sending it to the web server.
+
+Conclusion:
+A complicated web of procedures is hidden behind the seemingly straightforward action of inputting "https://www.google.com" and clicking Enter. Each step is essential in getting the knowing web page to your browser, from the DNS request through the data recovery from the database. sympathy this path enables us to take account the complex mechanisms that contribute to the frictionless browsing experience we undergo for granted today. Consider for a moment the amazing adventure that unfolds before your eyes the next time you open a webpage.
